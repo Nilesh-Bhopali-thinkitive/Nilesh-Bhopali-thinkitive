@@ -6,8 +6,9 @@
 
 ###
 
-<h2 align="left">🚀 Accomplished Node.js Team Lead 
-| 📚 Devoted Lifelong Learner
+<h2 align="left">🚀 Accomplished Node.js Team Lead <br>
+  
+  | 📚 Devoted Lifelong Learner
 
 
 ⭐️ Championing a track record of excellence, steering victorious software development endeavors across diverse sectors. Demonstrating an artful proficiency in leading developer teams, constructing intricate applications, and ensuring punctual project milestones, all while upholding unwavering quality benchmarks.

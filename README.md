@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is Nilesh Bhopali and I'm a Sr. Software Engineer from India.</p>
+<p align="left">My name is Nilesh Bhopali and I'm from India  🇮🇳</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🚀 Accomplished Node.js Team Lead | 📚 Devoted Lifelong Learner<br>⭐️ Championing a track record of excellence, steering victorious software development endeavors across diverse sectors. Demonstrating an artful proficiency in leading developer teams, constructing intricate applications, and ensuring punctual project milestones, all while upholding unwavering quality benchmarks.<br>🌱 Continuously evolving, enhancing my leadership acumen and technical acuity, navigating challenges to propel both my skills and the projects I oversee.<br>🤝 Partner with me to transform your software aspirations into triumphant, precisely executed realities.<br>🔧 Boasting a wealth of Node.js expertise and a robust history of steering successful projects. Equipped with a talent for orchestrating cross-functional collaboration, ensuring on-time, on-budget project fruition.<br>With a strong leadership foundation and a passion for continuous improvement, I am poised to guide your projects to remarkable achievement, combining innovation with steadfast execution.</h2>
 
 ###
 
-<p align="left">Highly skilled and experienced Node.js Team Lead with experience leading successful software development projects in various industries. Demonstrated ability to manage a team of developers, build complex applications, and ensure project deadlines are met while maintaining high quality standards. Adept at working with cross-functional teams to deliver projects on time and within budget.</p>
+<p align="left"></p>
 
 ###
 

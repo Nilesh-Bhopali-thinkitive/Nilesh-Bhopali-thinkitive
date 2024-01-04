@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🚀 Accomplished Node.js Team Lead <br>
+<h2 align="left">🚀 Accomplished Node.js Team Lead </h2>
   
   | 📚 Devoted Lifelong Learner
 
@@ -20,7 +20,7 @@
 🤝 Partner with me to transform your software aspirations into triumphant, precisely executed realities.
 
 
-🔧 Boasting a wealth of Node.js expertise and a robust history of steering successful projects. Equipped with a talent for orchestrating cross-functional collaboration, ensuring on-time, on-budget project fruition.<br>With a strong leadership foundation and a passion for continuous improvement, I am poised to guide your projects to remarkable achievement, combining innovation with steadfast execution.</h2>
+🔧 Boasting a wealth of Node.js expertise and a robust history of steering successful projects. Equipped with a talent for orchestrating cross-functional collaboration, ensuring on-time, on-budget project fruition.<br>With a strong leadership foundation and a passion for continuous improvement, I am poised to guide your projects to remarkable achievement, combining innovation with steadfast execution.
 
 ###
 
